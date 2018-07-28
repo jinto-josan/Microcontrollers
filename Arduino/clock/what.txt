@@ -1,0 +1,8 @@
+An analog clock on neo pixel
+
+Things you need:-
+
+Arduino 	x1
+LCD 		x1
+neo pixel 	x1
+Breadboard	x1

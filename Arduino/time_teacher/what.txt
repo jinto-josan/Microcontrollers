@@ -1,0 +1,7 @@
+It is a toy which helps in teaching toddlers how to read analog time
+
+Things need:-
+Arduino uno 	  x1
+LCD         	  x1
+Adafruit_neopixel x1
+Breadboard	  x1
